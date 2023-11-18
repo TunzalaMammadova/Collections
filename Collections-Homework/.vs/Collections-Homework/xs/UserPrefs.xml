@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{76BBE42F-F6FC-4FFB-9D88-0C571DC41CF7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Collections-Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/Services/PersonService.cs">
+    <Files>
+      <File FileName="Collections-Homework/Program.cs" Line="27" Column="19" />
+      <File FileName="Domain/Models/BaseEntity.cs" />
+      <File FileName="Domain/Models/Person.cs" Line="8" Column="16" />
+      <File FileName="Service/Interfaces/IPersonService.cs" Line="9" Column="72" />
+      <File FileName="Service/Services/PersonService.cs" Line="42" Column="79" />
+      <File FileName="Domain/Datas/AppDbContext.cs" Line="21" Column="1" />
+      <File FileName="Collections-Homework/PersonController.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collections-Homework" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Datas" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Service">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="PersonService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

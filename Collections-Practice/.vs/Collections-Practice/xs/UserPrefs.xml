@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2ADCCC5F-8967-4C76-96D9-D6B78A2811B6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Collections-Practice/Program.cs">
+    <Files>
+      <File FileName="Collections-Practice/Program.cs" Line="113" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collections-Practice" expanded="True">
+            <Node name="Collections-Practice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Domain" expanded="True" />
+            <Node name="Service" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Collections-Practice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
